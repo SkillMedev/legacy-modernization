@@ -9,7 +9,7 @@ Reach for this when you inherit a business-critical codebase that has to keep ru
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/legacy-modernization](https://skillme.dev/pack/legacy-modernization) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/legacy-modernization`
+- **With the skills CLI:** `npx skills add SkillMedev/legacy-modernization`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
